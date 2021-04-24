@@ -3,7 +3,6 @@ package com.example.nickforler1109405final
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.nickforler1109405final.databinding.ActivityLoginBinding
 import com.example.nickforler1109405final.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -17,6 +16,11 @@ class MainActivity : AppCompatActivity() {
 
         binding.addBucketButton.setOnClickListener {
             var intent = Intent(this, NewBucketActivity::class.java)
+            startActivity(intent)
+        }
+
+        binding.viewBucketButton.setOnClickListener {
+            var intent = Intent(this, ViewBucketActivity::class.java)
             startActivity(intent)
         }
     }
