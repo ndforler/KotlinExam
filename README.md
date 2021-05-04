@@ -26,9 +26,9 @@ I was given 3 Hours to complete a set amount of instructions
  
 ## 4.	After a successful login, the user should be directed to a view that has
 <br>a)	your name and “Bucket List” across the top (1 mark)
-<br>b)	the background should be a travel related image in webp format.  Do not copy my image, use your own.  It only needs to work for a phone in portrait orientation (2 marks)
-<br>c)	buttons and header should use a colour scheme that aligns with the background image (1 mark).  In the example below, the colour in the water was 41c2d1 and the sand was f4f5f7.  
-<br>d)	Push your code to GitHub with the message “Challenge 4-nice background complete”
+<br>b)	the background should be a travel related image in webp format.  Do not copy my image, use your own. It only needs to work for a phone in portrait orientation (2 marks)
+<br>c)	buttons and header should use a colour scheme that aligns with the background image (1 mark). In the example below, the colour in the water was 41c2d1 and the sand was f4f5f7.
+d)	Push your code to GitHub with the message “Challenge 4-nice background complete”
  
  
 ## 5.	Add a new bucket list item 
